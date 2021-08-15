@@ -25,5 +25,5 @@ I'm currently a **Front-end developer** with computer science background, slowly
 ## What i'm learning currently :
 <a href="https://nodejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://graphql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://postgressql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="graphql" width="40" height="40"/> </a>
+<!-- <a href="https://graphql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://postgressql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="graphql" width="40" height="40"/> </a> -->
