@@ -1,5 +1,5 @@
 # Hey! it's Sushant
-I'm currently a **Front-end developer** with computer science background, slowly transistioning to more of a Full-stack developer role. 
+I'm a Full-Stack Developer with computer science background.
 
 ## Connect with me
 
