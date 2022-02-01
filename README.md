@@ -23,6 +23,6 @@ I'm a Full-Stack Developer with a computer science background.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 # 📊GitHub Stats :
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sushij&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=sushij&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sushij&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&hide=stars&hide_rank=true")<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sushij&theme=midnight-purple&hide_border=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=sushij&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sushij&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
