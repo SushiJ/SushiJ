@@ -1,5 +1,5 @@
 ## Hey! it's Sushant
-Software Engineer, I do Full-stack development.
+Software Engineer, I do build things for the web.
 
 <!--- ## Tech
 
